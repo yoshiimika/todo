@@ -11,6 +11,10 @@ TODOリストを作成しました。
 - phpMyAdmin:http://localhost:8080/
 
 ## 機能一覧
+- 新規作成機能(TODO・カテゴリ)
+- 更新機能(TODO・カテゴリ)
+- 削除機能(TODO・カテゴリ)
+- 検索機能
 
 ## 使用技術（実行環境）
 - laravel8.0
