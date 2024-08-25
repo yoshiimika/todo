@@ -3,6 +3,23 @@ TODOリストを作成しました。
 各ボタンを押下する事で、TODOとカテゴリの追加・更新・削除、TODO名又はカテゴリ名による絞り込み検索を行う事が出来ます。
 <img width="1512" alt="スクリーンショット 2024-08-25 17 57 13" src="https://github.com/user-attachments/assets/fe2298b2-760b-407b-898f-d70eb12a0512">
 
+## 作成した目的
+学習のアウトプットとして作成しました。
+
+## URL
+- 開発環境：http://localhost/
+- phpMyAdmin:http://localhost:8080/
+
+## 機能一覧
+
+## 使用技術（実行環境）
+- laravel8.0
+- laravel10.0
+- MySQL8.0
+
+## テーブル設計
+
+## ER図
 
 ## 環境構築
 ### Dockerビルド
@@ -24,17 +41,3 @@ TODOリストを作成しました。
 5.php artisan migrate
 
 6.php artisan db:seed
-
-
-
-## 使用技術(実行環境)
-- php8.0
-- laravel10.0
-- MySQL8.0
-
-## ER図
-
-
-## URL
-- 開発環境：http://localhost/
-- phpMyAdmin:http://localhost:8080/
